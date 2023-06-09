@@ -5,4 +5,5 @@ API для тестового задания
 - SQL Server
 UI на Angular находится в другом репозитории (https://github.com/sanokkk/myrtex.ui)
 API содержит функционал для управления сущностью сотрудника (Employee)
+
 Скрипты для заданий по sql в папке SQL
